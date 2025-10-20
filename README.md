@@ -155,13 +155,6 @@ Task-3/
 ✅ CRUD operations verified from UI and database
 ✅ Clean and interactive task management interface built
 
----
-
-## 👩‍💻 Author
-
-**Sarayu Mandadi**
-📦 Kaiburr Internship — Task 3 Submission
-📧 GitHub: [Sara1220-up](https://github.com/Sara1220-up)
 
 ```
 
